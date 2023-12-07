@@ -1,0 +1,7 @@
+https://apricot-glamorous-harrier-819.mypinata.cloud/{CID}?pinataGatewayToken={Gateway API Key}
+
+https://apricot-glamorous-harrier-819.mypinata.cloud/Qmd3g8ZYzFkX55zS5ULqr8bJCmki3jR197cLwxbitZqoSu?pinataGatewayToken=zwmAKmie1wdMBzIW8l-ZtXpNT131i4u4j2MCMYvviND7ySK7fEGK_UpxBENS88pP
+
+https://cloudflare-ipfs.com/ipfs/Qmd3g8ZYzFkX55zS5ULqr8bJCmki3jR197cLwxbitZqoSu
+
+https://ipfs.io/ipfs/Qmd3g8ZYzFkX55zS5ULqr8bJCmki3jR197cLwxbitZqoSu
